@@ -204,12 +204,13 @@ END
 
 
 #### Manual Calculations
+<img width="1599" height="899" alt="WhatsApp Image 2026-05-14 at 11 10 16 AM" src="https://github.com/user-attachments/assets/4bca839a-c440-46d5-b4ba-92e0e82e0412" />
 
-<img width="1599" height="899" alt="WhatsApp Image 2026-05-14 at 11 10 16 AM" src="https://github.com/user-attachments/assets/25749c33-50e3-4071-b9f6-3d27c598add2" />
 
 ## OUTPUT FROM MASM SOFTWARE
 
-<img width="1600" height="1099" alt="WhatsApp Image 2026-05-14 at 11 06 31 AM" src="https://github.com/user-attachments/assets/5ce2e05e-d72b-4f12-90df-623368736013" />
+<img width="1599" height="899" alt="WhatsApp Image 2026-05-14 at 11 09 43 AM" src="https://github.com/user-attachments/assets/d379ddef-cc9e-447b-a442-52c7a07faa36" />
+
 
 
 
